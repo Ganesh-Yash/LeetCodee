@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0002-add-two-numbers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ganesh-Yash/LeetCodee/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ganesh-Yash/LeetCodee/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
 |  |
@@ -20,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
