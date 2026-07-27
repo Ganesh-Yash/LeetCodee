@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0011-container-with-most-water) |
 | [0056-merge-intervals](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0682-baseball-game) |
@@ -59,5 +60,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0011-container-with-most-water) |
 | [0844-backspace-string-compare](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0844-backspace-string-compare) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
