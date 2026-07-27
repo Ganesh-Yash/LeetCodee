@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0682-baseball-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -42,4 +43,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
