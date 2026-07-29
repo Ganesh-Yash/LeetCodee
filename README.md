@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0011-container-with-most-water) |
 | [0056-merge-intervals](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0056-merge-intervals) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0084-largest-rectangle-in-histogram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0735-asteroid-collision) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0084-largest-rectangle-in-histogram) |
 | [0682-baseball-game](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0739-daily-temperatures) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
