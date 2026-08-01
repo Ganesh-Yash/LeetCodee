@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ganesh-Yash/LeetCodee/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ganesh-Yash/LeetCodee/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -28,12 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0486-predict-the-winner) |
 ## Array
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0011-container-with-most-water) |
 | [0056-merge-intervals](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0084-largest-rectangle-in-histogram) |
+| [0486-predict-the-winner](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0682-baseball-game) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0486-predict-the-winner) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0907-sum-of-subarray-minimums) |
 ## Design
 |  |
@@ -126,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
