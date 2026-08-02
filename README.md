@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ganesh-Yash/LeetCodee/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ganesh-Yash/LeetCodee/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ganesh-Yash/LeetCodee/tree/master/3536-maximum-product-of-two-digits) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0907-sum-of-subarray-minimums) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0907-sum-of-subarray-minimums) |
 ## Design
 |  |
@@ -134,4 +137,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
