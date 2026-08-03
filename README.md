@@ -145,17 +145,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0112-path-sum) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0112-path-sum) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0112-path-sum) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0112-path-sum) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
