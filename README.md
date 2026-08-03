@@ -142,4 +142,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1406-stone-game-iii) |
+## Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
