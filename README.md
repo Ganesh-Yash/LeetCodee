@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ganesh-Yash/LeetCodee/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ganesh-Yash/LeetCodee/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ganesh-Yash/LeetCodee/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ganesh-Yash/LeetCodee/tree/master/3536-maximum-product-of-two-digits) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ganesh-Yash/LeetCodee/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0073-set-matrix-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0496-next-greater-element-i) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ganesh-Yash/LeetCodee/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ganesh-Yash/LeetCodee/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ganesh-Yash/LeetCodee/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
