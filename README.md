@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Ganesh-Yash/LeetCodee/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ganesh-Yash/LeetCodee/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ganesh-Yash/LeetCodee/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1927-sum-game](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ganesh-Yash/LeetCodee/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ganesh-Yash/LeetCodee/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ganesh-Yash/LeetCodee/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0011-container-with-most-water) |
+| [1927-sum-game](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Ganesh-Yash/LeetCodee/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ganesh-Yash/LeetCodee/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ganesh-Yash/LeetCodee/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Ganesh-Yash/LeetCodee/tree/master/2029-stone-game-ix) |
 ## Tree
 |  |
