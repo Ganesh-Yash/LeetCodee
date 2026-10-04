@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0739-daily-temperatures) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0678-valid-parenthesis-string) |
 | [1927-sum-game](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Ganesh-Yash/LeetCodee/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ganesh-Yash/LeetCodee/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0940-distinct-subsequences-ii) |
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ganesh-Yash/LeetCodee/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
