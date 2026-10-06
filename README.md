@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1096-brace-expansion-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1927-sum-game](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Ganesh-Yash/LeetCodee/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ganesh-Yash/LeetCodee/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ganesh-Yash/LeetCodee/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
