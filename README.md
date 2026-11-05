@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ganesh-Yash/LeetCodee/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ganesh-Yash/LeetCodee/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0907-sum-of-subarray-minimums) |
 | [1140-stone-game-ii](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0011-container-with-most-water) |
 | [0844-backspace-string-compare](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0844-backspace-string-compare) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ganesh-Yash/LeetCodee/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ganesh-Yash/LeetCodee/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ganesh-Yash/LeetCodee/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ganesh-Yash/LeetCodee/tree/master/2333-minimum-sum-of-squared-difference) |
