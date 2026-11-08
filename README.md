@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0907-sum-of-subarray-minimums) |
 | [1140-stone-game-ii](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/Ganesh-Yash/LeetCodee/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ganesh-Yash/LeetCodee/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ganesh-Yash/LeetCodee/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0112-path-sum) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ganesh-Yash/LeetCodee/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Ganesh-Yash/LeetCodee/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ganesh-Yash/LeetCodee/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/Ganesh-Yash/LeetCodee/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ganesh-Yash/LeetCodee/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ganesh-Yash/LeetCodee/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Ganesh-Yash/LeetCodee/tree/master/0073-set-matrix-zeroes) |
 | [1254-number-of-closed-islands](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ganesh-Yash/LeetCodee/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ganesh-Yash/LeetCodee/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ganesh-Yash/LeetCodee/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -458,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ganesh-Yash/LeetCodee/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ganesh-Yash/LeetCodee/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ganesh-Yash/LeetCodee/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
